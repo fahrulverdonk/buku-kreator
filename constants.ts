@@ -4,7 +4,7 @@ export const CREATOR_PROFILE: Creator = {
   name: "Fahrul Verdonk",
   title: "Content Creator & Book Curator",
   bio: "Membuat konten tentang menulis, growth digital, dan strategi konten. Temukan rekomendasi buku terbaik untuk kreator.",
-  avatar: "https://images.unsplash.com/photo-1607746882042-944635dfe10e?q=80&w=400&auto=format&fit=crop&crop=faces"
+  avatar: "https://images.unsplash.com/photo-1594756858224-1a62a6a81571?q=80&w=400&auto=format&fit=crop"
 };
 
 export const BOOK_CATALOG: Book[] = [
